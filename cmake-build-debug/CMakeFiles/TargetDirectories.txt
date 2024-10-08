@@ -1,0 +1,3 @@
+/Users/malayashekhar/Desktop/openGL template/cmake-build-debug/CMakeFiles/OpenGLTemplate.dir
+/Users/malayashekhar/Desktop/openGL template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/malayashekhar/Desktop/openGL template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
